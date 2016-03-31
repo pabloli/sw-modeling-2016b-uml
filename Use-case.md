@@ -11,13 +11,13 @@
                                                                      
                                                                      
 
-  Make Purchase         -   Registered Customer                      
+  [Make Purchase](./Make-Purchase Case.md)          -   Registered Customer                      
                                                                      
                                                                      
 
-  Check out             -   Authentication <<service>> 
-                                                                     
-                        -   Identity Provider                        
+  Check out             -   Identity Provider
+  
+                        -   Authentication <<service>> 
                                                                      
                         -   Credit Payment Service                   
                                                                      
