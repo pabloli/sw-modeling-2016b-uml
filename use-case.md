@@ -11,7 +11,7 @@
                                                                      
                                                                      
 
-  Make Purchase         -   Registered Customer                      
+  [Make Purchase](./Make-Purchase Case.md)          -   Registered Customer                      
                                                                      
                                                                      
 
