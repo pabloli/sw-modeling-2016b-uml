@@ -1,1 +1,2 @@
-![image](UsecaseDiagram2)
+![image](./UsecaseDiagram2.png)
+
