@@ -1,11 +1,11 @@
   --------------------------------------------------------------------------------
-  Name                  Actors                                       Description
+  Name|Actors| Description
   --------------------- -------------------------------------------- -------------
   View item             -   Registered Customer                      
                                                                      
                         -   New Customer                             
                                                                      
-                        -   Authentication &lt;&lt;service&gt;&gt;   
+                        -   Authentication <<service>>
                                                                      
                         -   Identity Provider                        
                                                                      
@@ -15,7 +15,7 @@
                                                                      
                                                                      
 
-  Check out             -   Authentication &lt;&lt;service&gt;&gt;   
+  Check out             -   Authentication <<service>> 
                                                                      
                         -   Identity Provider                        
                                                                      
@@ -25,7 +25,7 @@
 
   Client Registration   -   New Customer                             
                                                                      
-                        -   Authentication &lt;&lt;service&gt;&gt;   
+                        -   Authentication <<service>> 
                                                                      
                                                                      
 
