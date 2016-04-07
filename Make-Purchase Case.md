@@ -8,7 +8,7 @@
 -	Customer: 	Wants Secure transaction.
                          Wants a easy and fast buying experience.
 
--	Identity Provider:    Wants to validate the identity.
+-	Identity Provider:    Wants to collect customer information. 
 -   Credit payment service: Wants to receive the order to pay for the item, Interested on commision fee. 
 -   Paypal: Wants to receive the order to pay for the item, Interested on commision fee.
 
@@ -20,22 +20,23 @@
 
 2.	Select the item and click on Make Purchase.
 
-3.  The site validate that the customer login is recently
+3.  The customer insert the credit card information.
 
-4.  The customer insert the credit card information.
+4.  The Credit payment service check the credit card information and retreive OK
 
-5.  The Credit payment service check the credit card information and retreive OK
+5.  The credit payment service pay to the vendor for the item and add the payment on the Credit card mothly bill
 
-6.  The credit payment service pay to the vendor for the item and add the payment on the Credit card mothly bill
-
-7.  The customer receive that the item was purchased
-
-8.  End of the Make Purchase case.
+6.  The customer receive that the item was purchased
 
 **Alternate Flow:**
 
-4a. Customer insert his Paypal account information
+3a. Customer insert his Paypal account information
 
-5a. Paypal check the account information (If the customer is not login ask to login)
+4a. Paypal check the account information (If the customer is not login ask to login)
 
-6a. Paypal pay to the vendor for the item and add the payment on the Paypal registerd credit card
+5a. Paypal pay to the vendor for the item and add the payment on the Paypal registerd credit card
+
+**Exceptions**
+
+The site validate that the customer is active 
+
